@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Mar 17 16:32:40 2022
+# Process ID: 12631
+# Current directory: /home/dsplab/wallacemul4/wallacemul4.runs/impl_1
+# Command line: vivado -log wallace.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source wallace.tcl -notrace
+# Log file: /home/dsplab/wallacemul4/wallacemul4.runs/impl_1/wallace.vdi
+# Journal file: /home/dsplab/wallacemul4/wallacemul4.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source wallace.tcl -notrace
